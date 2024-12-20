@@ -1,0 +1,178 @@
+# Blender MTL File: 'gyrfin.blend'
+# Material Count: 15
+
+newmtl Material
+Ns 738.037191
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd skins\\dziubek.tga
+map_d skins\\dziubek.tga
+
+newmtl Material.001
+Ns 730.247916
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd skins\\dziubek.tga
+map_d skins\\dziubek.tga
+
+newmtl Material.002
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd skins\\ostoja.tga
+
+newmtl Material.003
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd skins\\wózki.tga
+
+newmtl Material.004
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd skins\\wózki.tga
+
+newmtl Material.005
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd skins\\wypo_dach.tga
+
+newmtl dynamic\pkp\e6act_v1\pantograf
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\MASZYNA\\dynamic\\pkp\\e6act_v1\\pantograf.dds
+map_d C:\\MASZYNA\\dynamic\\pkp\\e6act_v1\\pantograf.dds
+
+newmtl dynamic\pkp\eu160_v1\eu160eurovisonbok
+Ns 163.657002
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd skins\\pudło.tga
+map_d skins\\pudło.tga
+
+newmtl dynamic\pkp\eu160_v1\eu160eurovisonprzod
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd skins\\czoło.tga
+map_d skins\\czoło.tga
+
+newmtl dynamic\pkp\eu160_v1\gora
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd skins\\dach.tga
+map_d skins\\dach.tga
+
+newmtl dynamic\pkp\eu160_v1\podwozie
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd skins\\spód.tga
+map_d skins\\spód.tga
+
+newmtl dynamic\pkp\eu160_v1\reflektory
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd reflektory.tga
+map_d reflektory.tga
+
+newmtl dynamic\pkp\eu160_v1\szyby_Transparent
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd szyby.tga
+map_d szyby.tga
+
+newmtl dynamic\pkp\pesa_gama_v1\skins\aircoupler
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\MASZYNA\\dynamic\\pkp\\pesa_gama_v1\\skins\\aircoupler.tga
+map_d C:\\MASZYNA\\dynamic\\pkp\\pesa_gama_v1\\skins\\aircoupler.tga
+
+newmtl dynamic\pkp\pesa_gama_v1\skins\coupler
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\MASZYNA\\dynamic\\pkp\\pesa_gama_v1\\skins\\coupler.tga
+map_d C:\\MASZYNA\\dynamic\\pkp\\pesa_gama_v1\\skins\\coupler.tga
