@@ -1,9 +1,8 @@
 // to jest plik z parametrami dla e6act Dragon
 # prametry hamulca dla SPKS: youBy
-
 Param. Category=train M=79000 Mred=9000 Vmax=160 PWR=5004 SandCap=700
 Load: MaxLoad=52 LoadQ=pieces LoadAccepted=pantstate LoadSpeed=1 UnLoadSpeed=0.1
-Dimensions: L=19.9  H=4.325 W=3.0 Cx=0.1
+Dimensions: L=19.8  H=4.325 W=3.0 Cx=0.1
 Wheels: D=1.250 AIM=4000 Tw=1.435 Axle=Co'Co' Ad=1.908 Bd=10.01  Rmin=100 BearingType=Roll
 BuffCoupl. CType=Screw kB=9200 DmaxB=0.15 FmaxB=740 kC=4800 DmaxC=0.15 FmaxC=780 beta=0.58 AllowedFlag=35
 

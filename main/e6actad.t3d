@@ -1,8 +1,0 @@
-include dynamic\pkp\e6act_v2\components\e6acta_pudlo.t3d end
-include dynamic\pkp\e6act_v2\components\e6acta_wozki.t3d end
-include dynamic\pkp\e6act_v2\components\e6acta_detale_dual_power.t3d end
-include dynamic\pkp\e6act_v2\components\e6acta_kanal_bok.t3d end
-include dynamic\pkp\e6act_v2\components\e6acta_kamery_2.t3d end
-include dynamic\pkp\e6act_v2\components\e6acta_kamera_czolo.t3d end
-include dynamic\pkp\e6act_v2\components\e6acta_wyposazenie_dach.t3d end
-include dynamic\pkp\e6act_v2\components\e6acta_pantograf.t3d end
