@@ -1,0 +1,372 @@
+# Blender 3.3.21 MTL File: 'gyrfin.blend'
+# www.blender.org
+
+newmtl dynamic\pkp\e6act_v1\pantograf
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd C:/MASZYNA/dynamic/pkp/e6act_v1/pantograf.dds
+map_d C:/MASZYNA/dynamic/pkp/e6act_v1/pantograf.dds
+
+newmtl dynamic\pkp\eu160_v1\end_on
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd end_on.tga
+map_d end_on.tga
+
+newmtl dynamic\pkp\eu160_v1\end_on.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd end_on.tga
+map_d end_on.tga
+
+newmtl dynamic\pkp\eu160_v1\end_on.002
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd end_on.tga
+map_d end_on.tga
+
+newmtl dynamic\pkp\eu160_v1\end_on.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd end_on.tga
+map_d end_on.tga
+
+newmtl dynamic\pkp\eu160_v1\eu160-025
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd skins/dziubek.tga
+map_d skins/dziubek.tga
+
+newmtl dynamic\pkp\eu160_v1\eu160-025.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd skins/dziubek.tga
+map_d skins/dziubek.tga
+
+newmtl dynamic\pkp\eu160_v1\reflektory.005
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd światełki.dds
+map_d światełki.dds
+
+newmtl dynamic\pkp\eu160_v1\skins\czolo
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd skins/czolo.tga
+map_d skins/czolo.tga
+
+newmtl dynamic\pkp\eu160_v1\skins\dach
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd skins/dach.tga
+map_d skins/dach.tga
+
+newmtl dynamic\pkp\eu160_v1\skins\kola
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd skins/kola.tga
+map_d skins/kola.tga
+
+newmtl dynamic\pkp\eu160_v1\skins\kola.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd skins/kola.tga
+map_d skins/kola.tga
+
+newmtl dynamic\pkp\eu160_v1\skins\kola.002
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd skins/kola.tga
+map_d skins/kola.tga
+
+newmtl dynamic\pkp\eu160_v1\skins\kola.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd skins/kola.tga
+map_d skins/kola.tga
+
+newmtl dynamic\pkp\eu160_v1\skins\ostoja_(2)
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd skins/ostoja (2).tga
+map_d skins/ostoja (2).tga
+
+newmtl dynamic\pkp\eu160_v1\skins\pudlo
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd skins/pudlo.tga
+map_d skins/pudlo.tga
+
+newmtl dynamic\pkp\eu160_v1\skins\spod
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd skins/spod.tga
+map_d skins/spod.tga
+
+newmtl dynamic\pkp\eu160_v1\skins\wozki
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd skins/wozki.tga
+map_d skins/wozki.tga
+
+newmtl dynamic\pkp\eu160_v1\skins\wozki.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd skins/wozki.tga
+map_d skins/wozki.tga
+
+newmtl dynamic\pkp\eu160_v1\skins\wypo_dach
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd skins/wypo_dach.tga
+map_d skins/wypo_dach.tga
+
+newmtl dynamic\pkp\eu160_v1\sw_off
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd sw_off.tga
+map_d sw_off.tga
+
+newmtl dynamic\pkp\eu160_v1\sw_off.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd sw_off.tga
+map_d sw_off.tga
+
+newmtl dynamic\pkp\eu160_v1\sw_off.002
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd sw_off.tga
+map_d sw_off.tga
+
+newmtl dynamic\pkp\eu160_v1\sw_off.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd sw_off.tga
+map_d sw_off.tga
+
+newmtl dynamic\pkp\eu160_v1\sw_off.004
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd sw_off.tga
+map_d sw_off.tga
+
+newmtl dynamic\pkp\eu160_v1\sw_off.005
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd sw_off.tga
+map_d sw_off.tga
+
+newmtl dynamic\pkp\eu160_v1\sw_on
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd sw_on.tga
+map_d sw_on.tga
+
+newmtl dynamic\pkp\eu160_v1\sw_on.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd sw_on.tga
+map_d sw_on.tga
+
+newmtl dynamic\pkp\eu160_v1\sw_on.002
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd sw_on.tga
+map_d sw_on.tga
+
+newmtl dynamic\pkp\eu160_v1\sw_on.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd sw_on.tga
+map_d sw_on.tga
+
+newmtl dynamic\pkp\eu160_v1\sw_on.004
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd sw_on.tga
+map_d sw_on.tga
+
+newmtl dynamic\pkp\eu160_v1\sw_on.005
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd sw_on.tga
+map_d sw_on.tga
+
+newmtl dynamic\pkp\eu160_v1\swiatelki
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd swiatelki.tga
+map_d swiatelki.tga
+
+newmtl dynamic\pkp\eu160_v1\swiatelki
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd swiatelki.tga
+map_d swiatelki.tga
+
+newmtl dynamic\pkp\eu160_v1\szyby
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd szyby.tga
+map_d szyby.tga
+
+newmtl dynamic\pkp\pesa_gama_v1\skins\aircoupler
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd C:/MASZYNA/dynamic/pkp/pesa_gama_v1/skins/aircoupler.tga
+map_d C:/MASZYNA/dynamic/pkp/pesa_gama_v1/skins/aircoupler.tga
+
+newmtl dynamic\pkp\pesa_gama_v1\skins\coupler
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd C:/MASZYNA/dynamic/pkp/pesa_gama_v1/skins/coupler.tga
+map_d C:/MASZYNA/dynamic/pkp/pesa_gama_v1/skins/coupler.tga
