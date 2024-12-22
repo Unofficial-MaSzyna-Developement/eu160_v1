@@ -1,5 +1,5 @@
 //model pojazdu i definicje podmodeli:
-models: e4dcu.t3d
+models: e4dcu.t3d#
 animations: 6 0 0 4 2 2 -1
 lowpolyinterior: lowpoly_int.t3d
 animwheelprefix: wheel0
@@ -17,7 +17,41 @@ locations:
  
 endlocations
 sounds:
-wheel_clatter: 55 -7.124 20786_es64x4_wheel_1.wav -5.212 20786_es64x4_wheel_2.wav -3.291 20786_es64x4_wheel_1.wav 3.291 20786_es64x4_wheel_3.wav 5.212 20786_es64x4_wheel_4.wav 7.124 20786_es64x4_wheel_3.wav end
+wheel_clatter: 80 
+-6.42 
+{ sound1: 20786_es64x4_wheel_1.wav
+sound60: 20786_es64x4_wheel_1_v2.wav 
+sound500: 20786_es64x4_wheel_1_v2.wav }
+ -3.48 
+{ sound1: 20786_es64x4_wheel_2.wav 
+sound60: 20786_es64x4_wheel_2_v2.wav
+sound500: 20786_es64x4_wheel_2_v2.wav }
+ 3.48 
+{ sound1: 20786_es64x4_wheel_3.wav 
+sound60: 20786_es64x4_wheel_3_v2.wav
+sound500: 20786_es64x4_wheel_3_v2.wav }
+ 6.42 
+{ sound1: 20786_es64x4_wheel_4.wav 
+sound60: 20786_es64x4_wheel_4_v2.wav
+sound500: 20786_es64x4_wheel_4_v2.wav } end
+tractionmotor: {
+ amplitudefactor: 1.0
+ amplitudeoffset: 0.5
+ frequencyfactor: 0.290
+ frequencyoffset: 0.0
+ placement: external
+ range: 100
+ crossfade: 75
+ sound1: silence1.wav pitch1: 1
+ sound43: es64f4_p85x2.wav pitch43: 43
+ sound58: es64f4_p115x2.wav pitch58: 58
+ sound80: es64f4_p80.wav pitch80: 80
+ sound140: es64f4_p140.wav pitch140: 140
+ sound316: es64f4_p316.wav pitch316: 316
+ sound500: es64f4_p500.wav pitch500: 500
+ sound710: es64f4_p710.wav pitch710: 710
+ sound1420: es64f4_p1420_z_710.wav pitch1420: 1420
+}
 curve: {
  amplitudefactor: 1.35
  amplitudeoffset: 1.35
@@ -30,25 +64,27 @@ curve: {
  sound35: 20786_104e_curve_1.wav
  sound50: 104e_3]curve.wav
  sound80: silence1.wav }
-sounds:
-wheel_clatter: 55 -7.124 20786_es64x4_wheel_1.wav -5.212 20786_es64x4_wheel_2.wav -3.291 20786_es64x4_wheel_1.wav 3.291 20786_es64x4_wheel_3.wav 5.212 20786_es64x4_wheel_4.wav 7.124 20786_es64x4_wheel_3.wav end
-curve: {
- amplitudefactor: 1.35
- amplitudeoffset: 1.35
+tractionacmotor: {
+ amplitudefactor: 1.0
+ amplitudeoffset: 0.0
+ frequencyfactor: 1.0
+ frequencyoffset: 0.0
  range: 100
+ soundproofing: [ 0.04 1 0.04 0.6 0.6 0.6 ]
+ placement: external
  crossfade: 75
- sound1: 697_104e_curve_1.wav
- sound20: 20786_104e_curve_2.wav
- sound25: 20786_104e_curve_3.wav
- sound30: 20786_104e_curve_2.wav
- sound35: 20786_104e_curve_1.wav
- sound50: 104e_3]curve.wav
- sound80: silence1.wav }
-tractionmotor: { soundmain: motor_e186.wav range: 50 amplitudefactor: 0.3 amplitudeoffset: 0.5 frequencyfactor: 0.03 frequencyoffset: 0.1 placement: engine }
-inverter: { soundmain: 20786_es64x4_falownik.wav range: 50 amplitudefactor: 1 amplitudeoffset: 0.0 frequencyfactor: 1.0 frequencyoffset: 0.0 placement: engine }
+ sound1: silence1.wav pitch1: 1
+ sound57: es64f4_f570.wav pitch57: 57
+ sound82: es64f4_f820.wav pitch82: 82
+ sound104: es64f4_f1040.wav pitch104: 104
+ sound118: es64f4_f1180.wav pitch118: 118
+ sound195: es64f4_f950_2faza.wav pitch195: 120
+ sound290: es64f4_f1900_2faza.wav pitch290: 240
+ sound580: silence1.wav pitch580: 480
+}
 brake: {
  amplitudefactor: 1.3
- amplitudeoffset: 0.85 
+ amplitudeoffset: 0.2 
  range: 130
  crossfade: 85
  sound0: silence1.wav
@@ -56,21 +92,22 @@ brake: {
  sound5: disc_brake_1.wav
  sound12: silence1.wav
  sound20: silence1.wav }
-derail: derail.wav 60
-horn1: dragon_horn_low-1.wav dragon_horn_low-2.wav dragon_horn_low-3.wav 1000
+derail: derail.wav 200horn1: dragon_horn_low-1.wav dragon_horn_low-2.wav dragon_horn_low-3.wav 1000
 horn2: dragon_horn_high-1.wav dragon_horn_high-2.wav dragon_horn_high-3.wav 1000
 horn3: traxx_dual_horn-01.wav traxx_dual_horn-02.wav traxx_dual_horn-03.wav 1000
-small-compressor: s-compressor-start.wav s-compressor.wav s-compressor-stop.wav 35
-compressor: { soundbegin: 20786_e6act_compressor_1.wav  soundmain: 20786_e6act_compressor_2.wav soundend: 20786_e6act_compressor_3.wav placement: engine range: 70 }
-converter: { soundbegin: 697_e6act_went_start.wav soundmain: 697_e6act_went.wav soundend: 697_e6act_went_stop.wav placement: engine range: 80 }
+motorblower: { soundbegin: 26284_es64u4_wentylacja_turbo_v2-start.wav soundmain: 26284_es64u4_wentylacja_turbo_v2-trwa.wav soundend: 26284_es64u4_wentylacja_turbo_v2-stop.wav placement: engine soundproofing: [ 0.1 1 0.1 0.5 0.5 0.5 ] offset: [ 0, 2, 0 ] }
+compressor: { soundbegin: 26284_es64u4_sprezarka_v3-start.wav soundmain: 26284_es64u4_sprezarka_v2-trwa.wav soundend: 26284_es64u4_sprezarka_v2-stop.wav placement: engine soundproofing: [ 0.15 1 0.15 0.5 0.5 0.5 ] range: 70 }
+small-compressor: s-compressor-start.wav,s-compressor.wav,s-compressor-stop.wav 20
+battery: { soundbegin: 26284_es64u4_battery_v2-start.wav soundmain: 26284_es64u4_battery_v2-trwa.wav soundend: 26284_es64u4_battery_v2-stop.wav placement: engine soundproofing: [ 0.2 1 0.2 0.1 0.1 0.1 ] }
+converter: { soundbegin: 26284_es64u4_wentylacja_v2-start.wav soundmain: 26284_es64u4_wentylacja_v2-trwa.wav soundend: 26284_es64u4_wentylacja_v2-stop.wav placement: engine soundproofing: [ 0.27 1 0.27 1 1 1 ] range: 75 }
+pantographup: { soundmain: 26284_es64f4_pantup.wav placement: external }
+pantographdown: { soundmain: 24150_traxx_pantograf_dol.wav placement: external }
 sand: 20786_es64x4_sand_1.wav 20786_es64x4_sand_2.wav 20786_es64x4_sand_3.wav 25
-releaser: 20786_es64f4_releaser_1.wav 20786_es64f4_releaser_2.wav 20786_es64f4_releaser_3.wav 35 
-pantographup: { soundmain: 20786_es64x4_pantup.wav placement: engine range: 30 }
-pantographdown: { soundmain: 20786_es64x4_pantdown.wav placement: engine range: 40 }
-unbrake: { soundbegin: 24150_e6act_luzowanie_pomocniczy_1.wav soundmain: 24150_e6act_luzowanie_pomocniczy_2.wav soundend: 24150_e6act_luzowanie_pomocniczy_3.wav placement: internal range: 15 }
-outernoise: { range: 150 soundmain: runningnoise.wav }
-emergencybrake: { soundbegin: 20786_et22_emergency_brake_1 soundmain: 20786_et22_emergency_brake_2 soundend: 20786_et22_emergency_brake_3 placement: internal offset: [1.1, 1.6, -6.1] }
-endsounds
+releaser: traxxodluzniacz1.wav traxxodluzniacz2.wav traxxodluzniacz3.wav 25
+outernoise: { range: 160 soundmain: runningnoise.wav }
+unbrake: { soundmain: 20786_en62_hiss_1.wav placement: external soundproofing: [ 0 0.1 0 0.6 0.6 0.6 ] }
+emergencybrake: { soundbegin: 20786_et22_emergency_brake_1.wav soundmain: 20786_et22_emergency_brake_2.wav soundend: 20786_et22_emergency_brake_3.wav placement: engine offset: [1.1, 1.6, -6.1] }
+endsounds 
 
 internaldata:
 buzzer: 20786_203e_buzzer.wav 
