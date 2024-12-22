@@ -8,7 +8,7 @@ Wheels: D=1.250 AIM=4000 Tw=1.435 Axle=Bo'Bo' Ad=2.9 Bd=9.9 Rmin=120
 Brake: BrakeValve=EStED NBpA=4 MBF=50 MaxBP=3.8 BCN=8 RM=1.4 BCR=0.127 BCD=0.04 BCM=2.7 BCS=0.8 BSA=0 BM=Disk2 BVV=125 Vv=0.8 CompressorSpeed=0.04 CompressorPower=Converter CompressorPower=Main MinCP=8 MaxCP=10 UBB1=8
 SpringBrake: Volume=10 MBF=2.9 MaxSP=5.5 ResetP=4.0 MinFP=3.5 PressOff=4.5 PressOn=4.2 ValveOnArea=0.0005 ValveOffArea=0.0005 ValvePNBArea=0.002 MTC=4
 BuffCoupl. CType=Screw kB=9200 DmaxB=0.15 FmaxB=740 kC=4800 DmaxC=0.15 FmaxC=780 beta=0.58 AllowedFlag=103
-Cntrl. BrakeSystem=Pneumatic BrakeOpModes=PN BCPN=4 BDelay1=15 BDelay2=4 BDelay3=35 BDelay4=25 ASB=Automatic LocalBrake=PneumaticBrake MCPN=10 SCPN=16 SpeedCtrlDelay=0.5 AutoRelay=No MainInitTime=10 MainStart=Manual IniCDelay=0.5 SCDelay=0.1 BrakeDelays=GPR BrakeHandle=MHZ_K8P LocBrakeHandle=FD1 ScndS=Yes SBD=0 ConverterStart=Automatic ConverterStartDelay=10 PantCompressorStart=Automatic PantAutoValve=Yes EIMCtrlType=0 HAO=No HMO=No HGDP1=0.1 OMP=0.4 DirChangeMaxPos=0 LocalBrakeTraxx=No PantEPValveStart=Manual PantEPValveSpring=No
+Cntrl. BrakeSystem=ElectroPneumatic BrakeOpModes=PN BCPN=4 BDelay1=15 BDelay2=4 BDelay3=35 BDelay4=25 ASB=Automatic LocalBrake=PneumaticBrake MCPN=10 SCPN=16 SpeedCtrlDelay=0.5 AutoRelay=No MainInitTime=10 MainStart=Manual IniCDelay=0.5 SCDelay=0.1 BrakeDelays=GPR BrakeHandle=MHZ_K5P LocBrakeHandle=FD1 ScndS=Yes SBD=0 ConverterStart=Automatic ConverterStartDelay=10 PantCompressorStart=Automatic PantAutoValve=Yes EIMCtrlType=0 HAO=No HMO=No HGDP1=0.1 OMP=0.4 DirChangeMaxPos=0 LocalBrakeTraxx=No PantEPValveStart=Manual PantEPValveSpring=No
 -1 0.8 	-1	20 Pneumatic 
  0 0.5	-1	2  Pneumatic
  1 0.46 -1	2  Pneumatic
