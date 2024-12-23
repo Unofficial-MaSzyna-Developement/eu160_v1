@@ -6,7 +6,7 @@ Anim: false
 Ambient: 255 255 255 
 Diffuse: 255 255 255 
 Specular: 255 255 255 
-SelfIllum: 1 
+SelfIllum: true 
 Wire: false 
 WireSize: 1 
 Opacity: 1 
@@ -3600,7 +3600,7 @@ Anim: false
 Ambient: 255 255 255 
 Diffuse: 135 59 8 
 Specular: 255 255 255 
-SelfIllum: 1 
+SelfIllum: true 
 Wire: false 
 WireSize: 0 
 Opacity: 1 
@@ -3622,7 +3622,7 @@ Anim: false
 Ambient: 255 255 255 
 Diffuse: 255 255 255 
 Specular: 255 255 255 
-SelfIllum: 1 
+SelfIllum: true 
 Wire: false 
 WireSize: 1 
 Opacity: 1 
@@ -23428,7 +23428,7 @@ Anim: false
 Ambient: 255 255 255 
 Diffuse: 255 255 255 
 Specular: 255 255 255 
-SelfIllum: 1 
+SelfIllum: true 
 Wire: false 
 WireSize: 1 
 Opacity: 1 
@@ -25212,7 +25212,7 @@ Anim: false
 Ambient: 255 255 255 
 Diffuse: 255 255 255 
 Specular: 255 255 255 
-SelfIllum: 1 
+SelfIllum: true 
 Wire: false 
 WireSize: 1 
 Opacity: 1 
@@ -25291,7 +25291,7 @@ Anim: false
 Ambient: 255 255 255 
 Diffuse: 255 255 255 
 Specular: 255 255 255 
-SelfIllum: 1 
+SelfIllum: true 
 Wire: false 
 WireSize: 1 
 Opacity: 1 
@@ -28879,7 +28879,7 @@ Anim: false
 Ambient: 255 255 255 
 Diffuse: 135 59 8 
 Specular: 255 255 255 
-SelfIllum: 1 
+SelfIllum: true 
 Wire: false 
 WireSize: 0 
 Opacity: 1 
@@ -28901,7 +28901,7 @@ Anim: false
 Ambient: 255 255 255 
 Diffuse: 255 255 255 
 Specular: 255 255 255 
-SelfIllum: 1 
+SelfIllum: true 
 Wire: false 
 WireSize: 1 
 Opacity: 1 
@@ -48709,7 +48709,7 @@ Anim: false
 Ambient: 255 255 255 
 Diffuse: 255 255 255 
 Specular: 255 255 255 
-SelfIllum: 1 
+SelfIllum: true 
 Wire: false 
 WireSize: 1 
 Opacity: 1 
@@ -50493,7 +50493,7 @@ Anim: false
 Ambient: 255 255 255 
 Diffuse: 255 255 255 
 Specular: 255 255 255 
-SelfIllum: 1 
+SelfIllum: true 
 Wire: false 
 WireSize: 1 
 Opacity: 1 
