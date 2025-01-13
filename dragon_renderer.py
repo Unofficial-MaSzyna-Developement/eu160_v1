@@ -72,6 +72,7 @@ class dragon_renderer(abstractscreenrenderer):
 		
 		
 	def _render(self, state):
+
 		#zmiana kolorów na nocne w kolibrze
 		global czarny_koliber
 		global bialy_koliber
